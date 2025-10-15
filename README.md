@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi there, I'm Arya 👋
 
-<!--
-**AryaDeb1234/AryaDeb1234** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a BCA student passionate about building cool things with code and solving challenging problems. Welcome to my GitHub!
 
-Here are some ideas to get you started:
+## 🚀 About Me
+- 📚 Currently pursuing Bachelor of Computer Applications (BCA)
+- ⚡ I love competitive programming and exploring new tech
+- 💬 Always up for tech talk or collaboration!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack
+- Languages: **C, C++, Python, JavaScript**
+- Web: **HTML, CSS, Node.js, Express.js**
+- Database: **MongoDB**
+
+## 🌟 Featured Project
+[MarkMyClass - SIH Project](https://markmyclass.vercel.app/)  
+A smart attendance and classroom management platform, built for Smart India Hackathon!
+
+## ✨ Fun Fact
+> "The code you write makes you a programmer.  
+> The code you delete makes you a good one.  
+> The code you don't have to write makes you a great one."
+
+## 📫 Let's Connect
+- Feel free to reach out for collaboration, coding challenges, or just to say hi!
+
+---
+
+Happy coding! 🚀
